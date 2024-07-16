@@ -1,0 +1,7 @@
+print ("alexandre")
+print("sopho")
+print("gio")
+print("mari")
+print("elsa")
+print("rostom")
+print("lasha")
